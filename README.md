@@ -1,3 +1,4 @@
+![Header](github-header-image.png)
 <h1 align="center">Hi 👋 I am Davide Piccica</h1>
 <h3 align="center">A passionate front end developer from Italy</h3>
 
